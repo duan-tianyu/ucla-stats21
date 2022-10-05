@@ -1,1 +1,3 @@
 This is a simple text file for STATS 21.
+
+Hope this course is meaningful and fun!
